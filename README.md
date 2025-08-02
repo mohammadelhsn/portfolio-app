@@ -21,4 +21,4 @@ This is a React Native mobile app version of my portfolio website, built using E
 
 ## Status
 
-This project is actively being worked on. While it’s not a top priority, I’m committed to completing it eventually. APK files will be included in the releases tab once available.
+✅ This project is actively being worked on. While it’s not a top priority, I’m committed to completing it eventually. APK files will be included in the releases tab once available.
